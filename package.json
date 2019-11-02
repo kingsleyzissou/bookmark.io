@@ -22,7 +22,7 @@
     "express": "^4.16.2",
     "express-vue": "^4.0.14",
     "method-override": "^2.3.10",
-    "mongoose": "^5.0.4",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "npm": "^5.7.1",
     "vue-router": "^3.0.1",
